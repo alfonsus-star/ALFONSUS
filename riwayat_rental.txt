@@ -1,0 +1,8 @@
+======= STRUK RENTAL PS =======
+Waktu        : 04-12-2025 08:24:22
+Nama Penyewa : Alfonsus
+Jenis PS     : PS5
+Lama Sewa    : 3 jam
+Total Bayar  : Rp 36,000
+================================
+

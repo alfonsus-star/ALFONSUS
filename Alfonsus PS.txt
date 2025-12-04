@@ -1,0 +1,8 @@
+======= STRUK RENTAL PS =======
+Waktu        : 03-12-2025 10:21:15
+Nama Penyewa : Alfonsus
+Jenis PS     : PS3
+Lama Sewa    : 6 jam
+Total Bayar  : Rp 30,000
+================================
+
